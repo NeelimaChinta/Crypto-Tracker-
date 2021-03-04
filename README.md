@@ -1,3 +1,8 @@
+# Crypto-Tracker
+
+This is a web bsaed crypto currency tracker built using React with the help of coingecko API. This invovles using React Router and React Hooks. This web app display the current price of a particular crypto currency, it's market capital, volume and other details. It also has a search bar where you can search details of over 100 types of crypto currencies. 
+Live website: https://crypto-tracker-00.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
